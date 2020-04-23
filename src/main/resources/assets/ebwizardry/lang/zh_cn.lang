@@ -48,7 +48,7 @@ item.ebwizardry\:arcane_tome.name=奥法宝典
 item.ebwizardry\:arcane_tome.desc=将任意满足进度条件的 %1$s 等级的魔杖升级至 %2$s 等级
 
 item.ebwizardry\:wizard_handbook.name=巫师手札
-item.ebwizardry\:wizard_handbook.desc=编写于%1$s
+item.ebwizardry\:wizard_handbook.desc=by %1$s
 
 item.ebwizardry\:wand.generic=魔杖
 
